@@ -28,3 +28,4 @@ if(alturaValida && pesoValido){
     var imc = peso / (altura*altura);   
     tdImc = imc; 
 }
+ // Isto e um comentario para teste
